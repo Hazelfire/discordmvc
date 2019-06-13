@@ -7,7 +7,7 @@ Email: sam.nolan@rmit.edu.au
 Github: https://github.com/Hazelfire
 Description: Entry point for discord mvc
 """
-from discordmvc.cli import cli
+from .cli import cli
 
 if __name__ == "__main__":
     cli()

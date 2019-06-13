@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "e1bb2a6662a53ab31f4f82d91ed218f9e9006552c9ffd107a11710475b1f5e7a"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "discord-mvc": {
+            "editable": true,
+            "path": "."
+        }
+    },
+    "develop": {}
+}
