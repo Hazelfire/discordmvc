@@ -7,3 +7,8 @@ Description: Entry point for discordmvc module
 """
 from .util import get_bots
 
+from .cli import cli
+
+def run():
+    """ Runs the main management cli """
+    cli()
