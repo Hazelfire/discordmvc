@@ -8,6 +8,8 @@ setup(
         "jinja2",
         "click",
         "sqlalchemy",
-        "discord"
+        "discord",
+        "fuzzywuzzy",
+        "python-dateutil"
     ]
 )
